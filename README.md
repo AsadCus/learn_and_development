@@ -1,10 +1,9 @@
-# About
+## About
 
-Web, management buat intern.
+Web manajemen intern.
 
-# Kalo mau coba
+## How to
 
-~ npm i
-~ npm run dev
-
-jangan lupa composer, .env dan php gen:key.
+- npm i
+- npm run dev
+- dont forget composer, .env and php gen:key
